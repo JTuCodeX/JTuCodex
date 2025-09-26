@@ -1,4 +1,7 @@
-
+<img src="https://github.com/JTuCodeX/JTuCodex/blob/main/github-banner.png" width="100%">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 <p align="center">
   <a href="#">
     <img
