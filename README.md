@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-Specialize in AI engineering 🤖, Automation ⚙️, robotics 🤖 and data analytics 📊 enthusiast.<br><br>Currently working on various AI projects 💡 and continuously learning AI/ML 🧠📚.<br><br>Hobbies: Reading a collection of books 📖 and poetry ✍️.
+Specialize in AI engineering 🤖, Automation ⚙️, Robotics 🤖 and Data Analytics 📊 enthusiast.<br><br>Currently working on various AI projects 💡 and continuously learning AI/ML 🧠📚.<br><br>Hobbies: Reading a collection of books 📖 and poetry ✍🏾.
 
 
 ## 🌐 Connect with Me:
