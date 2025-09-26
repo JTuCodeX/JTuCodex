@@ -1,4 +1,13 @@
 
+<p align="center">
+  <a href="#">
+    <img
+      width="1000px"
+      src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DA70D6&size=22&center=true&lines=Welcome+to+My+Profile+👋;I+Specialize+in:;AI+Engineering+🤖,+Automation+⚙️,;and+Robotics+🤖;Passionate+about+Data+Analytics+📊;and+AI/ML+🧠📚;Currently+Working+on;Exciting+AI+Projects+💡;Hobbies:+Books+📖+and+Poetry+✍️;Thanks+for+Stopping+By+✨"
+      alt="Animated typing banner introducing AI engineering, automation, robotics, data analytics, projects, and hobbies."
+    />
+  </a>
+</p>
 
 # 💫 About Me:
 Specialize in AI engineering 🤖, Automation ⚙️, Robotics 🤖 and Data Analytics 📊 enthusiast.<br><br>Currently working on various AI projects 💡 and continuously learning AI/ML 🧠📚.<br><br>Hobbies: Reading a collection of books 📖 and poetry ✍🏾.
